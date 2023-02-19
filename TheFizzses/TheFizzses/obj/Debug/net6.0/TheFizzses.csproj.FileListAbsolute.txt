@@ -1,0 +1,15 @@
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\bin\Debug\net6.0\TheFizzses.exe
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\bin\Debug\net6.0\TheFizzses.deps.json
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\bin\Debug\net6.0\TheFizzses.runtimeconfig.json
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\bin\Debug\net6.0\TheFizzses.dll
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\bin\Debug\net6.0\TheFizzses.pdb
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\TheFizzses.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\TheFizzses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\TheFizzses.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\TheFizzses.AssemblyInfo.cs
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\TheFizzses.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\TheFizzses.dll
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\refint\TheFizzses.dll
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\TheFizzses.pdb
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\TheFizzses.genruntimeconfig.cache
+C:\Users\Tom\source\repos\While loops projects\TheFizzses\TheFizzses\obj\Debug\net6.0\ref\TheFizzses.dll
